@@ -16,21 +16,17 @@ This project demonstrates the identification and management of browser extension
 
 1. **Open Extension Manager**
    - Navigated to Chrome's extension management page via `chrome://extensions`.
-   - ![Screenshot](Screenshot-40.jpg) 
 
 2. **Review Installed Extensions**
    - Observed the list:  
      - Chrome Remote Desktop  
      - Google Docs Offline  
-   - ![Screenshot](Screenshot-41.jpg) 
 
 3. **Check Extension Details & Permissions**
    - Explored extension details, focusing on permissions, source, and site access.
    - Example:  
      - Google Docs Offline: May access Google Doc/Drive domains, cannot run in Incognito unless enabled.
-   - ![Screenshot](Screenshot-43.jpg)
    - Chrome Remote Desktop: Can manage downloads and communicate with cooperating native applications.
-   - ![Screenshot](Screenshot-42.jpg) 
 
 4. **No Suspicious or Unnecessary Extensions Found**
    - All extensions in use are official Google products and deemed necessary for regular workflow.
